@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokenization_Savin", "Tokenization_Savin\Tokenization_Savin.csproj", "{A73AE481-3726-499C-8A9A-907D3034A917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73AE481-3726-499C-8A9A-907D3034A917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73AE481-3726-499C-8A9A-907D3034A917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73AE481-3726-499C-8A9A-907D3034A917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73AE481-3726-499C-8A9A-907D3034A917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4405128D-C472-462C-8568-8F9365370DE2}
+	EndGlobalSection
+EndGlobal
